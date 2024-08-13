@@ -1,0 +1,15 @@
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\bin\Debug\net6.0\builder_5_laba.exe
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\bin\Debug\net6.0\builder_5_laba.deps.json
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\bin\Debug\net6.0\builder_5_laba.runtimeconfig.json
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\bin\Debug\net6.0\builder_5_laba.dll
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\bin\Debug\net6.0\builder_5_laba.pdb
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.csproj.AssemblyReference.cache
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.AssemblyInfoInputs.cache
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.AssemblyInfo.cs
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.csproj.CoreCompileInputs.cache
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.dll
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\refint\builder_5_laba.dll
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.pdb
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\builder_5_laba.genruntimeconfig.cache
+C:\Users\Huawei_\source\repos\builder_5_laba\builder_5_laba\obj\Debug\net6.0\ref\builder_5_laba.dll
